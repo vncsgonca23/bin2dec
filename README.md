@@ -2,7 +2,7 @@
 
 Idea from [here](https://github.com/florinpop17/app-ideas/blob/master/Projects/1-Beginner/Bin2Dec-App.md)
 
-<!-- **Demo**: [Codesandbox](https://lrkm139qwl.codesandbox.io/) -->
+**Demo**: [Codesandbox](https://2xrdk.csb.app/)
 
 **Tier:** 1-Beginner
 
